@@ -21,5 +21,10 @@ For this lab I'm going to use the built-in serial port of the Arduino to take in
 | GND           | GND               |
 
 ### Software
-For the software design I'm going to follow the instructions from the project and use a Round Robbin loop design. The code will wait for the user to input a string. After the string has been entered , if the string is not a sentinel, it will be displayed on the LCD screen.
+For the software design I'm going to follow the instructions from the project and use a Round Robbin loop design. The code will wait for the user to input a string. After the string has been entered , if the string is not a sentinel, it will be displayed on the LCD screen. 
+
+Libraries used
+* [Adafruit-GFX-Library](https://github.com/adafruit/Adafruit-GFX-Library)
+* [Adafruit-ST7735-Library](https://github.com/adafruit/Adafruit-ST7735-Library)
+
 
