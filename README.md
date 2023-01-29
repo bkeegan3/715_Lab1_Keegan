@@ -6,7 +6,8 @@ Develop a C or C++ application which executes on an Arduino and displays a user 
 ## Design
 
 ### Hardware
-For this lab I'm going to use the built-in serial port of the Arduino to take in a user typed string. To display that string, I'm going to reuse a [1.8" TFT display](https://www.adafruit.com/product/358) that I have from another course. The display uses SPI to communicate to the Arduino. 
+For this lab I'm going to use the built-in serial port of the Arduino to take in a user typed string. To display that string, I'm going to reuse a [1.8" TFT display](https://www.adafruit.com/product/358) that I have from another course. The display uses SPI to communicate to the Arduino.
+
 ![alt text](https://github.com/bkeegan3/715_Lab1_Keegan/blob/master/HW%20Diagram.drawio.png)
 
 | Arduino Pins  | TFT 1.8" LCD Pins |
