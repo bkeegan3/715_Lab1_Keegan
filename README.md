@@ -28,3 +28,6 @@ Libraries used
 * [Adafruit-ST7735-Library](https://github.com/adafruit/Adafruit-ST7735-Library)
 
 [Software](https://github.com/bkeegan3/715_Lab1_Keegan/blob/master/Lab1.ino)
+
+## Video
+[![715_Lab1](http://img.youtube.com/vi/VuUSV3zC8O8/0.jpg)](http://www.youtube.com/watch?v=VuUSV3zC8O8)
